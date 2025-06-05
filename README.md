@@ -41,3 +41,6 @@ Performance Visualization: Live plotting of episode durations during training to
 Project Aim
 
 This project is designed for individuals seeking to gain a practical understanding of the Deep Q-Network algorithm and its application. It emphasizes a clear, step-by-step implementation of core deep reinforcement learning concepts, making it a valuable resource for students, researchers, and enthusiasts in the field of AI and machine learning.
+
+![image](https://github.com/user-attachments/assets/29a9e39a-6b87-4400-98cc-a935cff8ddf6)
+
